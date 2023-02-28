@@ -1,0 +1,4 @@
+Trapdoor.fpe shows the lua file as
+aimain           = objects\trapdoor.lua
+should be
+aimain           = puzzle\trapdoor.lua
